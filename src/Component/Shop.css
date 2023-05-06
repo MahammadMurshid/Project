@@ -1,0 +1,51 @@
+.All-Shop {
+    display: grid;
+    grid-template-columns: 6fr 10fr;
+    max-width: 74%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.buttons {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    grid-template-rows: 2fr 2fr;
+    width: 72%;
+}
+
+.buttons button {
+    background-color: #ebebeb;
+    letter-spacing: 2px;
+    font-weight: bold;
+    padding: 10px;
+    border: none;
+    margin: 10px;
+    padding: 11px;
+    width: 100px;
+}
+
+.box span {
+    position: absolute;
+    top: 33px;
+    left: 20px;
+    background-color: red;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.animation-item {
+    padding-top: 0;
+    height: 570px;
+    align-items: first baseline baseline;
+
+}
+
+.Discount-Detail {
+    text-align: center;
+
+}

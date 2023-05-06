@@ -1,0 +1,46 @@
+.Option {
+    display: flex;
+    justify-content: center;
+}
+
+.Optional2 {
+    margin-right: 170px;
+}
+
+.Leave_Message form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 500px;
+    margin: auto;
+
+
+}
+
+input,
+textarea {
+    margin: 10px;
+    width: 70%;
+    padding: 11px;
+    border-radius: 9px;
+    border: 1px solid;
+}
+
+textarea {
+    height: 90px;
+}
+
+button {
+    background-color: #7fad39;
+    letter-spacing: 2px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+.Optional2 h1,
+.Optional2 p {
+    text-align: center;
+}

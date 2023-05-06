@@ -1,0 +1,144 @@
+.Pages-detail {
+    display: grid;
+    grid-template-columns: 5fr 5fr;
+    margin: 47px;
+    width: 82%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.review {
+    color: #EDBB0E;
+}
+
+.review span {
+    color: red;
+}
+
+.price {
+    color: red;
+    font-size: 40px;
+}
+
+.page-left img {
+    width: 100%;
+    height: 80%;
+    border-radius: 10px;
+}
+
+.page-left {
+    margin: auto;
+
+
+}
+
+.optional {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+
+.product-info {
+    display: grid;
+    grid-template-columns: 3fr 4fr;
+
+}
+
+.pro-quantity {
+    display: inline-block;
+    text-align: center;
+    background-color: #f5f5f5;
+    padding: 2px 34px;
+    margin-top: 17px;
+}
+
+.pro-quantity input {
+    display: inline-block;
+    border: none;
+    width: 20px;
+    background-color: #f5f5f5;
+}
+
+.addto {
+    background-color: #7fad39;
+    margin-top: 17px;
+    margin-left: 10px;
+    padding: 4px;
+    padding-left: 12px;
+
+}
+
+.addto p {
+    color: white;
+    font-weight: 700;
+}
+
+.fav-icon {
+    margin-left: 14px;
+    background-color: #f5f5f5;
+    width: 33px;
+    text-align: center;
+    padding-bottom: 0;
+    position: relative;
+    bottom: -7px;
+    height: 53px;
+    padding-top: 0;
+    width: 54px;
+    color: red;
+}
+
+.product-info code {
+    color: red;
+}
+
+.pro-quantity .decre {
+    display: inline-block;
+
+}
+
+.pro-quantity .incre {
+    display: inline-block;
+
+}
+
+.product-info ul li {
+    list-style: none;
+    padding: 10px;
+
+}
+
+.product-info ul li span {
+    height: 20px;
+    padding-left: 10px;
+
+}
+
+.PRO-INFO {
+    display: grid;
+    grid-template-rows: 4fr 4fr;
+    display: grid;
+    margin: 47px;
+    width: 77%;
+    margin-top: 30px;
+    margin: auto;
+}
+
+.product-information p {
+    margin-top: 20px;
+    color: #666666;
+}
+
+.realated-product h1 {
+    text-align: center;
+    font-size: 2.8rem;
+    font-weight: 700;
+}
+
+.card {
+    width: 283px;
+    height: 277px;
+}
+
+.cards {
+    display: flex;
+}

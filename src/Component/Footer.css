@@ -1,0 +1,62 @@
+.FooterH {
+    height: 270px;
+}
+
+.Link-detail {
+    display: flex;
+}
+
+.LinksStyle a {
+    text-decoration: none;
+}
+
+.Subscribe input {
+
+    border-radius: 10px;
+    border: 1px solid;
+    height: 32px;
+    width: 200px;
+    padding: 4px;
+    font-size: 15px;
+
+}
+
+.Subscribe button {
+    border-radius: 10px;
+    border: 1px solid;
+    height: 45px;
+    padding: 7px;
+    color: white;
+    font-size: 15px;
+    background-color: #7fad39;
+    font-weight: bold;
+}
+
+.logos {
+    display: flex;
+}
+
+.logos p {
+    padding: 10px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 50%;
+    display: flex;
+
+}
+
+/* 
+.Footer-Detail,
+.Link-detail-head,
+.Footer-Social-Link {
+    position: relative;
+    left: 80px;
+
+} */
+.CopyRight {
+    background-color: black;
+    color: white;
+    padding: 1px;
+    text-align: center;
+    font-size: 18px;
+}
